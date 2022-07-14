@@ -1,0 +1,14 @@
+pip
+numpy
+pickle5
+
+prettytable
+
+rlbot==1.*
+
+stable-baselines3
+rlgym
+rlgym-compat>=1.0.2
+rlgym-tools>=1.6.1
+
+--extra-index-url https://pypi.ngc.nvidia.com
